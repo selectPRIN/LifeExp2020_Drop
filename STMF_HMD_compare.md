@@ -1,5 +1,5 @@
-Country & Year & $e_0$ STMF & $e_0$ HMD\\
-\midrule
+Country | Year | e_0 STMF | e_0 HMD|
+__________________________________________
 Austria	&	2017	&	82.149	&	81.892	\\
 Belgium	&	2018	&	81.631	&	81.736	\\
 Bulgaria	&	2017	&	74.234	&	74.901	\\
