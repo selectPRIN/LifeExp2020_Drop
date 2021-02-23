@@ -1,3 +1,5 @@
+This table compare life expectancy at birth estimated with STMF data and that from HMD data, for the most recent year available in HMD.
+
 Country      | Year         | e<sub>0</sub> STMF     | e<sub>0</sub> HMD      |
 ------------ | -------------| -------------| -------------|
 Austria	|	2017	|	82.149	|	81.892	|
